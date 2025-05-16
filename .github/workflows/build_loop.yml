@@ -284,6 +284,16 @@ jobs:
           # Several patches may be added per submodule.
           # Adding comments (#) may be useful to easily tell the individual patches apart.
 
+          future_carbs_4h \
+          override_sens \
+          now_line \
+          2hlollipop \
+          meal_days \
+          profiles \
+          basal_lock \
+          live_activity \
+          negative_insulin \
+
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
         run: |
